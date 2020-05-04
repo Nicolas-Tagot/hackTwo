@@ -1,0 +1,20 @@
+.navbar {
+  background: #bbadad;
+  display: flex;
+  justify-content: space-around;
+  height: 130px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.logo {
+  margin-top: -50px;
+}
+.text-description {
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+.phraseNico {
+  font-size: 15px;
+  color: white;
+}

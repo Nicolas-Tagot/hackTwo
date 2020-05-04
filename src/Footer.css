@@ -1,0 +1,21 @@
+.footer {
+  background: #bbadad;
+  display: flex;
+  justify-content: space-around;
+  height: 130px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.lienMET {
+  margin-top: 10px;
+  color: white;
+  text-align: center;
+}
+.lienmusee {
+  color: white;
+  font-size: 20px;
+}
+.lienmusee:hover {
+  color: #4c3636;
+}
